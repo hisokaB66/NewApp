@@ -1,14 +1,14 @@
 DailyToDo 앱 화면 구성 및 설명
 
 
-![DailyToDo 스크린샷](app/images/main_add.png)
+<img src="app/images/main_add.png" width="600">
 <메인 화면 및 일정 추가 화면>
 
 
-![DailyToDo 스크린샷](app/images/check_done.png)
+<img src="app/images/check_done.png" width="600">
 <체크 박스 후 완료된 할 일 화면>
 
-<img src="app/images/main_add.png" width="600">
+
 
 이번 프로젝트에서는 Jetpack Compose를 활용하여 할 일 앱인 DailyToDo 앱을 구현했습니다.
 

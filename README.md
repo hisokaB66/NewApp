@@ -2,13 +2,11 @@ DailyToDo 앱 화면 구성 및 설명
 
 
   
-  
 <img src="app/images/main_add.png" width="600">
 <메인 화면 및 일정 추가 화면>  
 
 <img src="app/images/check_done.png" width="600">
 <체크 박스 후 완료된 할 일 화면>  
-
 
       
 

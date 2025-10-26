@@ -132,13 +132,13 @@ fun MainScreen(viewModel: TaskViewModel, onCompletedClick: () -> Unit) {
                             viewModel.addTask(newTask)
                             newTask = ""
                         }
-                        focusManager.clearFocus() // 클릭 시 키보드 숨기기
+                        focusManager.clearFocus()
                     },
                     colors = ButtonDefaults.buttonColors(
                         containerColor = Color(0xFF800020),
                         contentColor = Color.White
                     ),
-                    modifier = Modifier.padding(8.dp) // 필요한 modifier
+                    modifier = Modifier.padding(8.dp)
                 ) {
                     Text("추가")
                 }
@@ -233,8 +233,8 @@ fun CompletedScreen(viewModel: TaskViewModel, navController: NavController) {
                         ) {
                             Checkbox(checked = true, onCheckedChange = null,
                                     colors = CheckboxDefaults.colors(
-                                    checkedColor = Color.Black,      // 체크되었을 때 체크 표시 색
-                                uncheckedColor = Color.Black,    // 체크 안 되어 있을 때 테두리 색
+                                    checkedColor = Color.Black,
+                                uncheckedColor = Color.Black,
                                 checkmarkColor = Color.White))
                             Spacer(modifier = Modifier.width(8.dp))
                             Text(task.text)

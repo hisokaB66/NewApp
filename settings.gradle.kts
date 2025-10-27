@@ -17,3 +17,5 @@ rootProject.name = "NewApp"
 include(":app")
 include(":week03")
 include(":week04")
+include(":week06")
+include(":week05")

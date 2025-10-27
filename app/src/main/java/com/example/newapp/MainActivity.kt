@@ -24,6 +24,7 @@ import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.input.ImeAction
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.NavController
 import com.example.newapp.ui.theme.NewAppTheme
 
@@ -242,6 +243,18 @@ fun CompletedScreen(viewModel: TaskViewModel, navController: NavController) {
                     }
                 }
             }
+        }
+    }
+}
+
+@Preview
+@Composable
+fun AppPreview(){
+    NewAppTheme {
+        Surface(modifier = Modifier.fillMaxSize(),
+            color = Color(0xFFFFF8E7)) {
+
+            AppNavigation()
         }
     }
 }

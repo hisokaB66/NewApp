@@ -25,4 +25,24 @@ Nav 함수를 사용해서 "완료된 할일" 버튼을 누르면 현재 화면�
 업로드한 사진과 같이 체크박스에 체크된 항목만 완료된 할 일 화면에 나타나는 것을 볼 수 있습니다.  
 화면에 이모티콘을 추가해 기능이 직관적으로 보일 수 있도록 이모티콘 표에서 유니코드를 복사하여 붙여넣었습니다.
 
-앱 DailyToDo를 추후 개선한다면 캘린더 기능 추가, 사용자 계정을 등록하여 할 일 기록을 저장, 시간 설정, 시간에 따른 할 일 알림 등의 기능을 생각해 볼 수 있습니다.
+앱 DailyToDo를 추후 개선한다면 캘린더 기능 추가, 사용자 계정을 등록하여 할 일 기록을 저장, 시간 설정, 시간에 따른 할 일 알림 등의 기능을 생각해 볼 수 있습니다.  
+
+
+<hr> 
+<img src="Images/w01.png" width="300">
+week01  
+
+<img src="Images/w02.png" width="300">  
+week02
+
+<img src="Images/w03.png" width="300">
+week03
+
+<img src="Images/w04.png" width="300">
+week04
+
+<img src="Images/w05.png" width="300">
+week05
+
+<img src="Images/w06.png" width="300">
+week06

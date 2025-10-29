@@ -29,20 +29,20 @@ Nav 함수를 사용해서 "완료된 할일" 버튼을 누르면 현재 화면�
 
 
 <hr> 
-<img src="NewApp/Images_2/w01.png" width="300">
+<img src="Images_2/w01.png" width="300">
 week01  
 
 <img src="Images_2/w02.png" width="300">  
 week02
 
-<img src="Images/w03.png" width="300">
+<img src="Images_2/w03.png" width="300">
 week03
 
-<img src="Images/w04.png" width="300">
+<img src="Images_2/w04.png" width="300">
 week04
 
-<img src="Images/w05.png" width="300">
+<img src="Images_2/w05.png" width="300">
 week05
 
-<img src="Images/w06.png" width="300">
+<img src="Images_2/w06.png" width="300">
 week06

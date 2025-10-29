@@ -29,7 +29,7 @@ Nav 함수를 사용해서 "완료된 할일" 버튼을 누르면 현재 화면�
 
 
 <hr> 
-<img src="Images/w01.png" width="300">
+<img src="NewApp/Images/w01.png" width="300">
 week01  
 
 <img src="Images/w02.png" width="300">  
